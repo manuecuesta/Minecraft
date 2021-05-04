@@ -1,0 +1,9 @@
+api-version: 1.8
+main: com.gmail.cuestamanue7.Bedwars
+version: 1.0
+name: Bedwars
+depend: [WorldEdit]
+
+commands:
+    bedwars:
+        description: Comando principal Bedwars

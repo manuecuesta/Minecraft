@@ -1,0 +1,7 @@
+main: com.gmail.cuestamanue7.Paintball
+version: 1.0
+name: PaintBall
+
+commands:
+    paintball:
+        description: Comando principal PaintBall

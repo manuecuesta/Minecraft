@@ -1,0 +1,4 @@
+winners_command_rewards:
+    - "msg %player% &a¡Has ganado! Aqui tienes tu recompensa"
+    - "eco give %player% 500"
+    - "give %player% 264 1"
